@@ -4,13 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code there
-        System.out.println(funcioinutil());
+        System.out.println(funcioInutil());
     }
 
-    public static String funcioinutil(){
+    private static String funcioInutil(){
         return "Hello World";
     }
-    public static String issue1(){
+    private static String issue1(){
         return "issue n 1";
     }
 }
