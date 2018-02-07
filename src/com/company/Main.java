@@ -10,4 +10,7 @@ public class Main {
     public static String funcioinutil(){
         return "Hello World";
     }
+    public static String issue1(){
+        return "issue n 1";
+    }
 }
