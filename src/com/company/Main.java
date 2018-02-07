@@ -10,8 +10,7 @@ public class Main {
     private static String funcioInutil(){
         return "Hello World";
     }
-
-    private static String issue1(){
+    private static String issue2(){
         return "issue n 1";
     }
 }
