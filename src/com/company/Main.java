@@ -7,7 +7,7 @@ public class Main {
         System.out.println(funcioinutil());
     }
 
-    public static String funcioinutil(){
+    protected static String funcioinutil(){
         return "Hello World";
     }
     public static String issue1(){
